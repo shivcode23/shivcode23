@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h3 align="left">Hi 👋! My name is Shivnath Mahato,  from Sarlahi, Currently enrolled in BSc in Computing @ The British College, Thapathali Kathmandu</h3>
 
 ###
 
