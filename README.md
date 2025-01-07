@@ -85,6 +85,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shivcode23/shivcode23/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shivcode23/shivcode23/20aeec9462a91816e0fb5885a5d7ef1522e148df/snake.svg" alt="Snake animation" />
 
 ###
